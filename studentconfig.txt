@@ -1,0 +1,9 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+  Host engr-lx.rcc.at.sfsu.edu
+    HostName engr-lx.rcc.at.sfsu.edu
+    User 926712004
+
+Host azure
+    HostName engr-lx.rcc.at.sfsu.edu
+    User student
+    Port 22
