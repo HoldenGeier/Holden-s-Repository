@@ -1,0 +1,20 @@
+total 72
+-rw-r--r-- 1 926712004 domain users 3761 Nov 16 15:50 all_my_life.txt
+-rw-r--r-- 1 926712004 domain users 1794 Nov 16 15:50 anti-hero.txt
+-rw-r--r-- 1 926712004 domain users 2337 Nov 16 15:50 barbie_world.txt
+-rw-r--r-- 1 926712004 domain users 2638 Nov 16 15:50 calm_down.txt
+-rw-r--r-- 1 926712004 domain users 2026 Nov 16 15:50 cruel_summer.txt
+-rw-r--r-- 1 926712004 domain users 2477 Nov 16 15:50 fast_car.pdf
+-rw-r--r-- 1 926712004 domain users 1606 Nov 16 15:50 flowers.pdf
+-rw-r--r-- 1 926712004 domain users 1910 Nov 16 15:50 fukumean.pdf
+-rw-r--r-- 1 926712004 domain users 1843 Nov 16 15:50 hey_driver.pdf
+-rw-r--r-- 1 926712004 domain users  929 Nov 16 15:50 i_remember_everything.txt
+-rw-r--r-- 1 926712004 domain users    0 Nov 16 17:31 listing.txt
+-rw-r--r-- 1 926712004 domain users 1543 Nov 16 15:50 need_a_favor.txt
+-rw-r--r-- 1 926712004 domain users 3368 Nov 16 15:50 paint_the_town_red.txt
+-rw-r--r-- 1 926712004 domain users 1708 Nov 16 15:50 religiously.txt
+-rw-r--r-- 1 926712004 domain users 1648 Nov 16 15:50 rich_men_north_of_richmond
+-rw-r--r-- 1 926712004 domain users 2037 Nov 16 15:50 snooze
+-rw-r--r-- 1 926712004 domain users 2291 Nov 16 15:50 thinkin_bout_me
+-rw-r--r-- 1 926712004 domain users 1523 Nov 16 15:50 used_to_be_young
+-rw-r--r-- 1 926712004 domain users 1954 Nov 16 15:50 vampire
